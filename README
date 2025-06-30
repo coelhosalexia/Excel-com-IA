@@ -1,0 +1,26 @@
+📊 Excel com IA – Simulador de Fundos Imobiliários
+Este projeto foi desenvolvido como parte de um laboratório prático com o objetivo de aplicar conhecimentos em Excel na criação de uma ferramenta útil e acessível para investidores iniciantes e experientes.
+
+A proposta consiste em uma planilha de simulação de investimentos em fundos imobiliários (FIIs), permitindo que o usuário explore diferentes cenários e tome decisões mais embasadas sobre onde e como investir.
+
+🎯 Objetivo
+A ferramenta tem como foco responder às principais dúvidas dos investidores, como:
+
+Quanto investir?
+
+Por quanto tempo?
+
+Qual o impacto da taxa de rendimento nos resultados?
+
+Quanto receberei de dividendos mensais?
+
+📈 O que a planilha oferece
+Com base em parâmetros personalizados pelo usuário, a planilha automatiza cálculos importantes, como:
+
+Valor total investido ao longo do tempo
+
+Crescimento do patrimônio acumulado
+
+Projeção de dividendos mensais
+
+Tudo isso apresentado de forma clara e intuitiva, para que o investidor visualize seu potencial de retorno e possa planejar com mais confiança.
